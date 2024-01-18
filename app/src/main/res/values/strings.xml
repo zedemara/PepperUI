@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pepper Chat GPT Demo</string>
+    <string name="configure_ip_adress">configure IP Adress</string>
+    <string name="listen">listen</string>
+    <string name="_192_168_0_139">192.168.0.139</string>
+    <string name="_5000">5000</string>
+    <string name="submit">submit</string>
+    <string name="current_url">current URL:</string>
+    <string name="no_ip_set">no IP set</string>
+    <string name="no_port_set">no Port set</string>
+</resources>
